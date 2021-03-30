@@ -1,0 +1,546 @@
+
+/* GLOBAL STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+
+body {
+  padding-bottom: 40px;
+  color: #000;
+}
+.section-a {
+	
+	background-color: #646464;
+	
+}
+.section-b {
+	
+	background-image: -webkit-linear-gradient(#fff 100%, #fff 100%);
+	background-size: cover;
+	
+}
+.section-c {
+	
+	background-color: #0D0D0D;
+}
+.section-d {
+	
+	background-color: #cecece;
+}	
+	
+	
+.section-a,.section-b,.section-c,.section-d{
+	
+	padding: 50px 0px;
+}
+
+.banner-info {
+	background-color:#D7222B;
+	width:100%;
+	height:auto;
+	
+	padding: 25px 0px;	
+}
+.intro-header {
+    padding-top: 100px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../images/cardrive.jpeg) no-repeat center center;
+    background-size: cover;
+    border-bottom: 1px solid #ffe100;
+     
+}
+.intro-message{
+	
+	padding: 75px 50px;
+}
+.price-banner{
+	
+	background-color: rgba(255, 230, 0, 1);
+	padding:10px 15px;
+	width: 200px;
+	height: 175px;
+	border: 2px solid #171715;
+	border-radius: 50px 0px;
+	margin-top: -100px;
+	margin-bottom: 50px;
+}
+.price-banner p{
+	
+	font-size:18px;
+}
+.price-block {
+	padding:10px;
+	width:200px;
+	height:200px;
+	background-color: 
+	position: relative;
+	
+}
+
+.tri {
+    background-size: cover;
+    border-left: 100px solid #000;
+    border-right: 100px solid transparent;
+    border-bottom: 100px solid transparent;
+    border-top: 100px solid transparent;
+    position: relative;
+    
+}
+.tri-mat-ll{
+	background-image: url(../images/tri-l.png);
+	background-size: cover;
+	
+}
+.tri-mat-ls{
+	background-image: url(../images/tri-l-s.png);
+	background-size: cover;
+	
+}
+.tri-mat-rby{
+	background-image: url(../images/tri-rby.png);
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position: right bottom;
+
+	
+}
+.tri-mat-lby{
+	background-image: url(../images/tri-lby.png);
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position: left top;
+
+	
+}
+.triangle{
+	width: 0;
+	height: 0;
+	border-left: 100px solid transparent;
+	border-right: 100px solid transparent;
+	border-top: 25px solid #ffe100;
+}
+
+h2.callout {
+    color: #fff;
+}
+
+h1.banner-heading {
+    color: #d7222b;
+    margin-top: 140px;
+}
+
+.mini-heading h2{
+	  
+	color: #fff;
+	font-size: 1.5em;
+  }
+.custom-price{
+	
+	font-size: 20px;
+	background-color: black;
+	color: #fff;
+	border-radius: 30px;
+	
+}
+
+footer a:hover,
+footer a:focus,
+footer a:active{
+  text-decoration: none;
+  background-color: transparent;
+  color: #ffe100;
+}
+/** ---------- Customise Form Control -------------**/
+.form-control {
+	background-color: #2c2c2c;
+	color: #d4d4d4;
+}
+.btn-yellow {
+	
+	color: #181818;
+	background-color: #ffe100;
+}
+
+.contact h3, .contact p{
+	
+	color: #d4d4d4;
+}
+.contact p{
+	
+	font-size: 16px;
+}
+input{
+	
+    outline: none !important;
+    border:1px solid #ffe100;;
+}
+/* CUSTOMIZE THE NAVBAR
+-------------------------------------------------- */
+
+.banner-heading{
+	  
+	  font-weight: 400;
+	  text-shadow: 2px 2px 4px black;
+	  color: #fff;
+	  padding: 5px;
+  }
+
+.secondary-heading {
+	  
+	  padding: 10px 0;
+	  margin: 40px 0px 0px 0px;
+  }
+.secondary-heading{
+	  
+	  background-color: #D7222B;
+  }
+
+ .secondary-heading h1{
+	  
+	  font-size:30px;
+  }
+  
+.pricing {
+	
+	display:none;
+}
+
+.yl-mail {
+	
+	color:#ffe100;
+}
+.site-logo{
+	
+	margin:25px;
+}
+
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+/* Carousel base class */
+.carousel {
+  height: 500px;
+  margin-bottom: 60px;
+}
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  z-index: 10;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel .item {
+  height: 500px;
+  background-color: #777;
+}
+.carousel-inner > .item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 500px;
+}
+
+
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+/* Center align the text within the three columns below the carousel */
+.marketing .col-lg-4 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.marketing h2 {
+  font-weight: normal;
+}
+.marketing .col-lg-4 p {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 80px 0; /* Space out the Bootstrap <hr> more */
+  background-color: inherit;
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+.featurette-image{
+	
+	border: 2px solid black;
+	border-radius: 50px 0px; 
+}
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+@media (min-width: 768px) {
+  /* Navbar positioning foo 
+  .navbar-wrapper {
+    margin-top: 20px;
+  }
+ */
+  .phone{
+	
+	font-size: 16px;
+  }
+  
+  .navbar-wrapper .container {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  .navbar-wrapper .navbar {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  /* The navbar becomes detached from the top, so we round the corners */
+  .navbar-wrapper .navbar {
+    border-radius: 4px;
+  }
+  a.navbar-brand {
+	  
+	  font-size: 16px;
+  }
+  .nav > li > a {
+	  
+	  font-size: 14px;
+  }
+  
+  
+  /* Bump up size of carousel content */
+  .carousel-caption p {
+    margin-bottom: 20px;
+    font-size: 21px;
+    line-height: 1.4;
+  }
+
+  .featurette-heading {
+    font-size: 38px;
+  }
+  .mini-heading h2{
+	  
+	color: #fff;
+	font-size: 2.5em;
+  }
+  .secondary-heading {
+	  
+	  padding: 10px 0;
+	  margin: 40px 0px 0px 0px;
+  }
+  .secondary-heading h1{
+	  
+	  font-size:36px;
+  }
+ 
+
+}
+@media (min-width: 992px) {
+  .featurette-heading {
+    margin-top: 120px;
+  }
+  .phone{
+	
+	font-size: 24px;
+	}
+  .navbar-subtitle{
+	
+	color: #fff;
+	font-size: 16px;
+	display: inline-block;
+  }
+  a.navbar-brand {
+	
+	font-size: 24px;
+	padding-bottom: 0px;
+	height:40px;
+
+  }
+  .callout {
+	font-size: 50px;
+	font-weight: 500;
+	line-height: 1.4;
+	color:#181818;
+  }
+  .banner-info {
+	  
+	  padding: 50px 0px;
+  }
+  .banner-heading{
+	  
+	  font-weight: 700;
+	  font-size: 6em;
+	  text-shadow: 2px 2px 4px black;
+	  color: #fff;
+	  padding: 50px;
+  }
+  .mini-heading h2{
+	  
+	color: #fff;
+	font-size: 2.5em;
+  }
+  .secondary-heading {
+	  
+	  padding: 25px 0;
+	  margin: 50px 0px 10px 0px;
+  }
+  .secondary-heading h1{
+	  
+	  font-size:36px;
+  }
+  .pricing{
+	  
+	  display:block;
+  }
+  
+}
+
+
+
+/*enquiry section*/
+/*
+h1, h2, h3, h4, h5, h6{
+      color: #000;
+    font-family: "Montserrat", Arial, sans-serif;
+    font-weight: 700;
+    margin: 0 0 30px 0;
+}
+#fh5co-main {
+    
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    transition: 0.5s;
+}
+#fh5co-main .fh5co-narrow-content {
+    position: relative;
+    width: 80%;
+    margin: 0 auto;
+    padding: 4em 0;
+}
+.form-control{
+       -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    box-shadow: none;
+    background: transparent;
+    border: 2px solid rgba(0, 0, 0, 0.1) !important;
+    height: 54px !important;
+    font-size: 18px;
+    font-weight: 300;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    -ms-border-radius: 0px;
+    border-radius: 0px !important;
+}
+#message {
+    height: 130px !important;
+}
+.btn.btn-md {
+    padding: 10px 25px !important;
+}
+.btn-primary {
+    background: #da1212 !important;
+    color: #fff !important;
+    border: 2px solid #da1212 !important;
+  border-radius: 0px !important;
+}
+*/
+
+.google-map {
+    padding-right: 100%;
+}
+
+.facebook{
+	padding: 152px;
+}
+
+span.text-muted {
+    color: #000;
+}
+
+p.leadwe {
+    color: #ccc;
+    font-size: 21px;
+    text-align: justify;
+}
+
+.lead{
+	text-align: justify;
+}
+
+i.glyphicon.glyphicon-glyphicon-circle-arrow-up {
+    font-size: 30px;
+}
+
+i.glyphicon.glyphicon-glyphicon-circle-arrow-up:hover {
+   	color: #d7222b;
+}
+
+a.navbar-brand.header-logo img {
+    width: 63px!important;
+    margin-top: -15px;
+}
+
+
+span.phone.navbar-text {
+    font-size: 16px;
+    margin-left: -10px;
+}
+
+
+
+h1.ab {
+    margin-left: 260px;
+    font-weight: 600;
+}
+
+
+/*table css*/
+
+tr.tableh {
+    font-size: 25px;
+    color: #fff;
+    background: #000;
+}
+
+tbody {
+    font-size: 18px;
+}
+
+
+.thead-dark td {
+    text-align: center;
+
+}
+
+
+tr.td td {
+    text-align: center;
+}
+
+.tblp {
+    margin-top: 80px;
+}
+
+th.bordr {
+    text-align: center;
+}
+
+h1.ap {
+    text-align: center;
+    font-weight: 600;
+}
+
+.enqf{
+  text-align: center; 
+  margin-bottom: 40px; 
+  font-weight: 600;
+}

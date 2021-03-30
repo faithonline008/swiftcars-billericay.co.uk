@@ -1,0 +1,128 @@
+Uri: https://www.mayflowertaxis.co.uk/
+File Name: D:\www.mayflowertaxis.co.uk\index.htm
+Content Type: text/html
+
+Uri: https://www.mayflowertaxis.co.uk/css/bootstrap.min.css
+File Name: D:\www.mayflowertaxis.co.uk\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.mayflowertaxis.co.uk/assets/css/ie10-viewport-bug-workaround.css
+File Name: D:\www.mayflowertaxis.co.uk\assets\css\ie10-viewport-bug-workaround.css
+Content Type: text/css
+
+Uri: https://www.mayflowertaxis.co.uk/css/style.css
+File Name: D:\www.mayflowertaxis.co.uk\css\style.css
+Content Type: text/css
+
+Uri: https://www.mayflowertaxis.co.uk/about.html
+File Name: D:\www.mayflowertaxis.co.uk\about.html
+Content Type: text/html
+
+Uri: https://www.mayflowertaxis.co.uk/pricing.html
+File Name: D:\www.mayflowertaxis.co.uk\pricing.html
+Content Type: text/html
+
+Uri: https://www.mayflowertaxis.co.uk/privacy.html
+File Name: D:\www.mayflowertaxis.co.uk\privacy.html
+Content Type: text/html
+
+Uri: https://www.mayflowertaxis.co.uk/terms.html
+File Name: D:\www.mayflowertaxis.co.uk\terms.html
+Content Type: text/html
+
+Uri: https://www.mayflowertaxis.co.uk/terms2.html
+File Name: D:\www.mayflowertaxis.co.uk\terms2.html
+Content Type: text/html
+
+Uri: https://www.mayflowertaxis.co.uk/assets/js/ie-emulation-modes-warning.js
+File Name: D:\www.mayflowertaxis.co.uk\assets\js\ie-emulation-modes-warning.js
+Content Type: application/javascript
+
+Uri: https://www.mayflowertaxis.co.uk/images/googleplay.png
+File Name: D:\www.mayflowertaxis.co.uk\images\googleplay.png
+Content Type: image/png
+
+Uri: https://www.mayflowertaxis.co.uk/images/Apple.png
+File Name: D:\www.mayflowertaxis.co.uk\images\Apple.png
+Content Type: image/png
+
+Uri: https://www.mayflowertaxis.co.uk/images/cardoor.jpg
+File Name: D:\www.mayflowertaxis.co.uk\images\cardoor.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mayflowertaxis.co.uk/images/operator.jpg
+File Name: D:\www.mayflowertaxis.co.uk\images\operator.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mayflowertaxis.co.uk/images/facebook.png
+File Name: D:\www.mayflowertaxis.co.uk\images\facebook.png
+Content Type: image/png
+
+Uri: https://www.mayflowertaxis.co.uk/js/bootstrap.min.js
+File Name: D:\www.mayflowertaxis.co.uk\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.mayflowertaxis.co.uk/assets/js/ie10-viewport-bug-workaround.js
+File Name: D:\www.mayflowertaxis.co.uk\assets\js\ie10-viewport-bug-workaround.js
+Content Type: application/javascript
+
+Uri: https://www.mayflowertaxis.co.uk/fonts/glyphicons-halflings-regular.eot
+File Name: D:\www.mayflowertaxis.co.uk\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.mayflowertaxis.co.uk/fonts/glyphicons-halflings-regular.eot?
+File Name: D:\www.mayflowertaxis.co.uk\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.mayflowertaxis.co.uk/fonts/glyphicons-halflings-regular.woff2
+File Name: D:\www.mayflowertaxis.co.uk\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://www.mayflowertaxis.co.uk/fonts/glyphicons-halflings-regular.woff
+File Name: D:\www.mayflowertaxis.co.uk\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://www.mayflowertaxis.co.uk/fonts/glyphicons-halflings-regular.ttf
+File Name: D:\www.mayflowertaxis.co.uk\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: https://www.mayflowertaxis.co.uk/fonts/glyphicons-halflings-regular.svg
+File Name: D:\www.mayflowertaxis.co.uk\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://www.mayflowertaxis.co.uk/images/cardrive.jpg
+File Name: D:\www.mayflowertaxis.co.uk\images\cardrive.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mayflowertaxis.co.uk/images/tri-l.png
+File Name: D:\www.mayflowertaxis.co.uk\images\tri-l.png
+Content Type: image/png
+
+Uri: https://www.mayflowertaxis.co.uk/images/tri-l-s.png
+File Name: D:\www.mayflowertaxis.co.uk\images\tri-l-s.png
+Content Type: image/png
+
+Uri: https://www.mayflowertaxis.co.uk/images/tri-rby.png
+File Name: D:\www.mayflowertaxis.co.uk\images\tri-rby.png
+Content Type: image/png
+
+Uri: https://www.mayflowertaxis.co.uk/images/tri-lby.png
+File Name: D:\www.mayflowertaxis.co.uk\images\tri-lby.png
+Content Type: image/png
+
+Uri: https://www.mayflowertaxis.co.uk/index.html
+File Name: D:\www.mayflowertaxis.co.uk\index.html
+Content Type: text/html
+
+Uri: https://www.mayflowertaxis.co.uk/images/logo.png
+File Name: D:\www.mayflowertaxis.co.uk\images\logo.png
+Content Type: image/png
+
+Uri: https://www.mayflowertaxis.co.uk/images/dbs-check.png
+File Name: D:\www.mayflowertaxis.co.uk\images\dbs-check.png
+Content Type: image/png
+
+Uri: https://www.mayflowertaxis.co.uk/images/logo-small.png
+File Name: D:\www.mayflowertaxis.co.uk\images\logo-small.png
+Content Type: image/png
+
